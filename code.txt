@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Website Under Construction</title>
+  <style>
+    body {
+      background-color: #f4f4f4;
+      font-family: sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+    .container {
+      text-align: center;
+    }
+    h1 {
+      color: #ff6600;
+      font-size: 2.5rem;
+    }
+    p {
+      color: #333;
+      font-size: 1.2rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Website under construction</h1>
+    <p>We're working on something awesome. Stay tuned!</p>
+  </div>
+</body>
+</html>
